@@ -1,2 +1,2 @@
 javac *.java
-java org.junit.runner.JUnitCore ExceptionImplTest
+java org.junit.runner.JUnitCore NumberHungryTest
